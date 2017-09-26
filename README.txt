@@ -8,4 +8,4 @@ IMPORTANT NOTE - This only includes skins/icons for the following vehicles:
 
 Enjoy!
 
-- FastestClassic
+Made by FastestClassic.
